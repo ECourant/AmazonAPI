@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonAPI", "AmazonAPI.csproj", "{A43910A6-9D07-498A-BE9E-E5A4BEE1732C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43910A6-9D07-498A-BE9E-E5A4BEE1732C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43910A6-9D07-498A-BE9E-E5A4BEE1732C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43910A6-9D07-498A-BE9E-E5A4BEE1732C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43910A6-9D07-498A-BE9E-E5A4BEE1732C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C63569D-CF6E-4E41-8ABE-01FEDACBDD59}
+	EndGlobalSection
+EndGlobal

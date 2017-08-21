@@ -1,0 +1,11 @@
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\AmazonMono\bin\Debug\AmazonMono.dll
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\AmazonMono\bin\Debug\AmazonMono.pdb
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\AmazonMono\obj\Debug\AmazonMono.csprojResolveAssemblyReference.cache
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\AmazonMono\obj\Debug\AmazonMono.dll
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\AmazonMono\obj\Debug\AmazonMono.pdb
+C:\Users\ecourant\Documents\AmazonMono\bin\Debug\AmazonMono.dll
+C:\Users\ecourant\Documents\AmazonMono\bin\Debug\AmazonMono.pdb
+C:\Users\ecourant\Documents\AmazonMono\obj\Debug\AmazonMono.csprojResolveAssemblyReference.cache
+C:\Users\ecourant\Documents\AmazonMono\obj\Debug\AmazonMono.csproj.CoreCompileInputs.cache
+C:\Users\ecourant\Documents\AmazonMono\obj\Debug\AmazonMono.dll
+C:\Users\ecourant\Documents\AmazonMono\obj\Debug\AmazonMono.pdb

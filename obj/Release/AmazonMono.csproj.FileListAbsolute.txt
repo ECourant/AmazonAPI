@@ -1,0 +1,4 @@
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\AmazonMono\bin\Release\AmazonMono.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\AmazonMono\bin\Release\AmazonMono.pdb
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\AmazonMono\obj\Release\AmazonMono.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\AmazonMono\obj\Release\AmazonMono.pdb

@@ -1,0 +1,5 @@
+C:\Users\ecourant\Documents\AmazonMono\bin\Debug\AmazonMono.dll
+C:\Users\ecourant\Documents\AmazonMono\bin\Debug\AmazonMono.pdb
+C:\Users\ecourant\Documents\AmazonMono\obj\Debug\AmazonAPI.csproj.CoreCompileInputs.cache
+C:\Users\ecourant\Documents\AmazonMono\obj\Debug\AmazonMono.dll
+C:\Users\ecourant\Documents\AmazonMono\obj\Debug\AmazonMono.pdb
